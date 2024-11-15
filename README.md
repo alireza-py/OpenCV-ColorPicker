@@ -1,14 +1,14 @@
-# ⚽ **TheBall - Color-Based Object Detection for RoboCup Soccer**
+# **TheBall - Color-Based Object Detection for RoboCup Soccer**
 
-## 📝 Overview
+## Overview
 **TheBall** is a Python project originally developed for **RoboCup Soccer** competitions. It detects and tracks soccer balls or other objects based on their color using OpenCV and the HSV color space. This project is optimized for **real-time image processing** in robotic soccer scenarios.
 
-## 🚀 Features
+## Features
 - 🔍 **Real-time detection and tracking** of objects using color thresholds.
 - 🎨 **Interactive color picker** to dynamically adjust HSV values.
 - 🤖 Designed specifically for **robotics and competitive environments**.
 
-## ⚡ Quick Start
+## Quick Start
 1. Install dependencies:
    ```bash
    pip install opencv-python numpy
@@ -25,13 +25,13 @@
    h: Open HSV adjustment trackbars.
    ```
 
-## 📋 Requirements
+## Requirements
 ```plaintext
 🐍 Python 3.7+
 📦 Libraries: OpenCV, NumPy
 ```
 
-## 🎯 Applications
+## Applications
 ```plaintext
 This code was developed for use in RoboCup Soccer competitions, where robots need to:
 
