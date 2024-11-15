@@ -30,6 +30,3 @@ Detect and follow the ball.
 React dynamically to changes in lighting and environment.
 License
 This is a personal project initially created for RoboCup. Feel free to use or modify it for educational and non-commercial purposes.
-
-yaml
-Copy code
